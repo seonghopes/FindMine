@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineG", "MineG.csproj", "{8873222E-3C09-4100-90F5-AFA0FA422D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8873222E-3C09-4100-90F5-AFA0FA422D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8873222E-3C09-4100-90F5-AFA0FA422D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8873222E-3C09-4100-90F5-AFA0FA422D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8873222E-3C09-4100-90F5-AFA0FA422D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02E0F240-13F8-44DF-8C4B-20F31F248189}
+	EndGlobalSection
+EndGlobal
